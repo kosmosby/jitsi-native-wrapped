@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jarjar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/installer-exclude/jarjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

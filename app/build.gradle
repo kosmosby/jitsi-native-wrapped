@@ -1,0 +1,98 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "org.jitsi"
+        minSdkVersion 11
+        targetSdkVersion 21
+
+        ndk {
+            moduleName "jnawtrenderer"
+        }
+
+        testApplicationId "org.jitsi.tests"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile 'com.google.android.gms:play-services-maps:6.5.87'
+    compile 'com.google.android.gms:play-services-location:6.5.87'
+    compile 'com.android.support:support-v4:21.0.3'
+
+    compile files('libs/java-rt-jar-stubs-1.5.0.jar')
+    compile files('libs/java-stubs.jar')
+    compile files('libs/log4j-1.2.8.jar')
+    compile files('libs/osgi.core.jar')
+    compile files('libs/smack-sasl.jar')
+    compile files('libs/asset-bundles/argdelegation-service.jar')
+    compile files('libs/asset-bundles/customavatar-service.jar')
+    compile files('libs/asset-bundles/customcontactactions.jar')
+    compile files('libs/asset-bundles/dns.jar')
+    compile files('libs/asset-bundles/fileaccess.jar')
+    compile files('libs/asset-bundles/googlecontacts-service.jar')
+    compile files('libs/asset-bundles/hid-service.jar')
+    compile files('libs/asset-bundles/jain-sip-api-1.2.jar')
+    compile files('libs/asset-bundles/json.jar')
+    compile files('libs/asset-bundles/meta-cl.jar')
+    compile files('libs/asset-bundles/notification-handlers.jar')
+    compile files('libs/asset-bundles/packetlogging.jar')
+    compile files('libs/asset-bundles/protocol-jabber.jar')
+    compile files('libs/asset-bundles/protocol-sip.jar')
+    compile files('libs/asset-bundles/provdisc-dhcp.jar')
+    compile files('libs/asset-bundles/provdisc-mdns.jar')
+    compile files('libs/asset-bundles/provdisc.jar')
+    compile files('libs/asset-bundles/provisioning.jar')
+    compile files('libs/asset-bundles/reconnectplugin.jar')
+    compile files('libs/asset-bundles/replacement-smiley.jar')
+    compile files('libs/asset-bundles/smacklib.jar')
+    compile files('libs/bundles/bccontrib.jar')
+    compile files('libs/bundles/bouncycastle.jar')
+    compile files('libs/bundles/browserlauncher.jar')
+    compile files('libs/bundles/callhistory.jar')
+    compile files('libs/bundles/certificate.jar')
+    compile files('libs/bundles/commons-codec.jar')
+    compile files('libs/bundles/contactlist.jar')
+    compile files('libs/bundles/contactsource.jar')
+    compile files('libs/bundles/credentialsstorage.jar')
+    compile files('libs/bundles/defaultresources.jar')
+    compile files('libs/bundles/dnsservice.jar')
+    compile files('libs/bundles/filehistory.jar')
+    compile files('libs/bundles/globaldisplaydetails.jar')
+    compile files('libs/bundles/history.jar')
+    compile files('libs/bundles/httpclient.jar')
+    compile files('libs/bundles/httpcore.jar')
+    compile files('libs/bundles/httputil.jar')
+    compile files('libs/bundles/libjitsi.jar')
+    compile files('libs/bundles/metahistory.jar')
+    compile files('libs/bundles/msghistory.jar')
+    compile files('libs/bundles/muc.jar')
+    compile files('libs/bundles/netaddr.jar')
+    compile files('libs/bundles/notification-service.jar')
+    compile files('libs/bundles/notification-wiring.jar')
+    compile files('libs/bundles/otr.jar')
+    compile files('libs/bundles/plugin-loggingutils.jar')
+    compile files('libs/bundles/protocol.jar')
+    compile files('libs/bundles/replacement.jar')
+    compile files('libs/bundles/resourcemanager.jar')
+    compile files('libs/bundles/sdes4j.jar')
+    compile files('libs/bundles/sysactivitynotifications.jar')
+    compile files('libs/bundles/systray-service.jar')
+    compile files('libs/bundles/ui-service.jar')
+    compile files('libs/bundles/updateservice.jar')
+    compile files('libs/bundles/util.jar')
+    compile files('libs/bundles/zrtp4j.jar')
+    compile files('libs/installer-exclude/asm-4.1.jar')
+    compile files('libs/installer-exclude/asm-commons-4.1.jar')
+    compile files('libs/installer-exclude/jarjar.jar')
+}

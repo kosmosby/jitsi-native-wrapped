@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="meta-cl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asset-bundles/meta-cl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

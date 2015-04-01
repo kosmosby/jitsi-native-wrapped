@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="provdisc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asset-bundles/provdisc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

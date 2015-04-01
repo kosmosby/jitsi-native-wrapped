@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="customcontactactions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asset-bundles/customcontactactions.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

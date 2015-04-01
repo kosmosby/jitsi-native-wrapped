@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="reconnectplugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asset-bundles/reconnectplugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="msghistory">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/bundles/msghistory.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="replacement-smiley">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asset-bundles/replacement-smiley.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

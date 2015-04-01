@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="provdisc-dhcp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asset-bundles/provdisc-dhcp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

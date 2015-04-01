@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="protocol-sip">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asset-bundles/protocol-sip.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

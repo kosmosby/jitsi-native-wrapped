@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="updateservice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/bundles/updateservice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

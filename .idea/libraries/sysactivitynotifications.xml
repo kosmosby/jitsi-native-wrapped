@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sysactivitynotifications">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/bundles/sysactivitynotifications.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

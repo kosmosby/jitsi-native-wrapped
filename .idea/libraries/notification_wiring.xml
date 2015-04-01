@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="notification-wiring">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/bundles/notification-wiring.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

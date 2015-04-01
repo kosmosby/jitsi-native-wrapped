@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httputil">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/bundles/httputil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

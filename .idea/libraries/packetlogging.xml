@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="packetlogging">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asset-bundles/packetlogging.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

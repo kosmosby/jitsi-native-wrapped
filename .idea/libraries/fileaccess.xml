@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fileaccess">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asset-bundles/fileaccess.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

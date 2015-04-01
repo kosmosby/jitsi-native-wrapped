@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="notification-service">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/bundles/notification-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

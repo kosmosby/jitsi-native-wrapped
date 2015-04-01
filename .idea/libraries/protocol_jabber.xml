@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="protocol-jabber">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asset-bundles/protocol-jabber.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sdes4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/bundles/sdes4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

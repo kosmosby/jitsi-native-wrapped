@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="provisioning">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/asset-bundles/provisioning.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
